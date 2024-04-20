@@ -58,12 +58,12 @@ http://opensource.org/licenses/mit-license.php
 おふとんPのX（旧Twitter）：[https://twitter.com/joumonsugi](https://twitter.com/joumonsugi)
 
 ## クレジット（順不同、敬称略）
-おふとんP  
-あみたろの声素材工房  
-Nacl_E  
+おふとんP [https://twitter.com/joumonsugi](https://twitter.com/joumonsugi)  
+あみたろの声素材工房 [https://twitter.com/amitaro_utau](https://twitter.com/amitaro_utau)  
+Nacl_E [https://twitter.com/test_sign_beta](https://twitter.com/test_sign_beta)  
 
 ### 開発協力
-Haruqa
+Haruqa [https://twitter.com/niconicoHaruqa](https://twitter.com/niconicoHaruqa)
 
 ## 更新履歴
 2024/04/30　公開
