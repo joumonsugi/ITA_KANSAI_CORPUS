@@ -45,13 +45,15 @@ Copyright (c) 2024 おふとんP, あみたろの声素材工房, Nacl_E
 This corpus is released under the MIT License.
 http://opensource.org/licenses/mit-license.php
 ```
+#### 説明図
+<img width=70% src="https://github.com/joumonsugi/ITA_KANSAI_CORPUS/blob/main/%E9%96%A2%E8%A5%BF%E5%BC%81%E3%82%B3%E3%83%BC%E3%83%8F%E3%82%9A%E3%82%B9%E8%AA%AC%E6%98%8E%E5%9B%B3.png"></img>
 
 ## 留意事項
 本コーパスの内容、及び本コーパスに関する規約は、予告なく改訂される可能性があります。  
 なお、改訂後は公開責任者（おふとんP）のHP、またはおふとんPのX（旧Twitter）で告知するものとします。
 
 ## 問い合わせ先
-問題があった時最初に見るところ：https://github.com/joumonsugi/ITA_KANSAI_CORPUS/issues  
+よくある質問：https://github.com/joumonsugi/ITA_KANSAI_CORPUS/issues  
 おふとんPのHP：[http://mohumohuton.web.fc2.com/](http://mohumohuton.web.fc2.com/)  
 おふとんPのX（旧Twitter）：[https://twitter.com/joumonsugi](https://twitter.com/joumonsugi)
 
