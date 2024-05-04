@@ -66,4 +66,4 @@ Nacl_E [https://twitter.com/test_sign_beta](https://twitter.com/test_sign_beta)
 Haruqa [https://twitter.com/niconicoHaruqa](https://twitter.com/niconicoHaruqa)
 
 ## 更新履歴
-2024/04/30　公開
+2024/05/04　公開
