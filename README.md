@@ -1,6 +1,6 @@
 # 関西弁コーパス
 
-# [ダウンロードはこちら](https://github.com/joumonsugi/ITA_KANSAI_CORPUS/archive/refs/tags/v1.0.0.zip)
+# [ダウンロードはこちら](https://github.com/joumonsugi/ITA_KANSAI_CORPUS/archive/refs/heads/main.zip)
 
 ## 概要
 関西弁コーパス（以下、本コーパスとする）は、「大阪府を中心とした近畿方言のコーパス」です。
